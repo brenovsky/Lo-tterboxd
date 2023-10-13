@@ -5,4 +5,4 @@ Site criado como presente de aniversário para uma amiga que gosta de filmes
 
 HTML + CSS + Integração de Dados com Python
 
-Feito por mim e pela [@beatrizopdd]
+Feito por mim e pela [@beatrizopdd](https://github.com/beatrizopdd)
